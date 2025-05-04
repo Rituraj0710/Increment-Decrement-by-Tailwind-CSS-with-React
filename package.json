@@ -12,9 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git"
   },
-  "author": "Pranay Gupta",
+  "author": "Rituraj Gupta",
   "bugs": {
-    "url": "https://github.com/thepranaygupta/react-tailwind-css-starter-pack/issues"
+    "url": "https://github.com/Rituraj0710/Increment-Decrement-by-Tailwind-CSS-with-React.git"
   },
   "scripts": {
     "start": "react-scripts start",
